@@ -1,6 +1,6 @@
 # Di-kairos/homebrew-tap
 
-Homebrew tap for [SecureTrash](https://github.com/Di-kairos/securetrash) — honest secure file deletion for macOS.
+Homebrew tap for [SecureTrash](https://github.com/Di-kairos/paranoid-tools/tree/main/securetrash) — honest secure file deletion for macOS.
 
 ## Install
 
